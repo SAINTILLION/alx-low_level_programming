@@ -8,7 +8,7 @@
 /* else its print number is Zero */
 
 
-int  main(void)
+main(void)
 { int n;
 
 srand(time(0));
