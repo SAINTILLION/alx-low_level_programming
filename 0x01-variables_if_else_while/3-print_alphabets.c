@@ -12,11 +12,11 @@ int lower, upper;
 lower = 'a';
 upper = 'A';
 while (lower <= 'z')
-{ 
+{
 putchar(lower);
 lower += 1;
 }
-while (upper <= 'A')
+while (upper <= 'Z')
 {
 putchar(upper);
 upper += 1;
