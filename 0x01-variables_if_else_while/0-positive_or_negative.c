@@ -8,7 +8,7 @@
 /* else its print number is Zero */
 
 
-int main(void)
+int main(void)  /* This function contains code to be executed*/
 { int n;
 
 srand(time(0));
