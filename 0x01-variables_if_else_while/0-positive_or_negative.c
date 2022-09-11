@@ -2,10 +2,13 @@
 #include <time.h>
 #include <stdio.h>
 
-/* main - assign a random number to the variable n whenever its executed */
-/* if the number is greater than zero:its prints number greater Zero */
-/* if the number is less than Zero: its print number less than Zero */
-/* else its print number is Zero */
+/**
+ * main - assign a random number to the variable n whenever its executed
+ * if the number is greater than zero, its prints number greater Zero
+ * if the number is less than Zero, its print number less than Zero
+ * else its print number is Zero
+ * Return: 0
+ */
 
 
 int main(void)  /* This function contains code to be executed*/
