@@ -2,14 +2,14 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - assign a randomnumber to the variable each
-its executed
+ * its executed
  * The string Last digit of n
- * return: 0
+ * Return: 0
  */
 
-int main(void)
+int main(void) /* This is the main function*/
 { int n;
 int lastn;
 srand(time(0));
