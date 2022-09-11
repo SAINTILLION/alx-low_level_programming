@@ -9,7 +9,7 @@ its executed
  * return: 0
  */
 
-main(void)
+int main(void)
 { int n;
 int lastn;
 srand(time(0));
