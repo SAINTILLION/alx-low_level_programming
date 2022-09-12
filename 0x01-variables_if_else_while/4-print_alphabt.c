@@ -1,17 +1,17 @@
 #include <stdio.h>
 
 /**
- * main - prints all alphabet in lowercase except q and e
- * you can only use putchar function
+ * main - program prints lowercase of alphabets except q and e
+ * You can only  use putchar
  * Return: 0
  */
 
-int main(void)
+int  main(void)
 {
-int lw = 'a';
-while (lw = 'z')
+int lw  = 'a';
+while (lw <= 'z')
 {
-if (lw == 'e' || lw == 'q')
+if (lw == 'q' || lw == 'e')
 {
 lw += 1;
 }
