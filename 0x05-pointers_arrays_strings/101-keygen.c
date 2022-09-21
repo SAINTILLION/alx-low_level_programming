@@ -16,7 +16,7 @@ int main(void)
 	char p[58];
 
 	srand(time(NULL));
-	while (s != 2772);
+	while (s != 2772)
 	{
 		i = k = s = 0;
 		while ((2772 - 122) > s)
